@@ -2,7 +2,7 @@
 <div align="center">
   <img width="100%" src="https://github.com/Sewlz/Sewlz/blob/main/banner.gif" alt="Banner">
 </div>
-<h1 align="left">Hi 👋, I'm Vunghiak3</h1>
+<h1 align="left">Hi 👋, I'm VuNghiak3</h1>
 <h3 align="left">A passionate software developer</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vunghiak3&show_icons=true&locale=en&layout=compact&theme=react" alt="vunghiak3" /></p>
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vunghiak3?tab=repositories](https://github.com/Vunghiak3?tab=repositories)
 
-- 💬 Ask me about **ReactJS,Javascript,python,C#,Java**
+- 💬 Ask me about **ReactJS,Javascript,python,C#,Java,Dart**
 
 - 📫 How to reach me **vunghiak3@gmail.com**
 
